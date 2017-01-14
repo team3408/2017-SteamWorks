@@ -2,7 +2,7 @@ This is our code for the 2017 SteamWorks season
 
 this is our coding schedule for the season:
 1. Write tank drive
-    This should already this written but we have not tested it yet
+    This should already be written but we have not tested it yet
 2. Gear loader code
     This is the code for the toaster.
     This is going to probably be powered by 2 worm gears
